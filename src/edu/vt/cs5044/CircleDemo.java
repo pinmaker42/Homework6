@@ -63,7 +63,7 @@ public class CircleDemo extends JPanel implements MouseListener
 
     private static void createAndShowGUI()
     {
-        JFrame frame = new JFrame("CircleDemo by gasser18");
+        JFrame frame = new JFrame("CircleDemo by jfs8888");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         JComponent newContentPane = new CircleDemo();
         newContentPane.setOpaque(true);

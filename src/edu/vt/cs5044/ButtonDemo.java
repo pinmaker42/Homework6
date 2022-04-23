@@ -36,7 +36,7 @@ public class ButtonDemo extends JPanel implements ActionListener
 
     private static void createAndShowGUI()
     {
-        JFrame frame = new JFrame("ButtonDemo by gasser18");
+        JFrame frame = new JFrame("ButtonDemo by jfs8888");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         JComponent newContentPane = new ButtonDemo();
         newContentPane.setOpaque(true);

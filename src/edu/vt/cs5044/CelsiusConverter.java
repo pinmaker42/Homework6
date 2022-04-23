@@ -57,7 +57,7 @@ public class CelsiusConverter extends JPanel implements ActionListener
 
     private static void createAndShowGUI()
     {
-        JFrame frame = new JFrame("CelsiusConverter by gasser18");
+        JFrame frame = new JFrame("CelsiusConverter by jfs8888");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         JComponent newContentPane = new CelsiusConverter();
         newContentPane.setOpaque(true);
